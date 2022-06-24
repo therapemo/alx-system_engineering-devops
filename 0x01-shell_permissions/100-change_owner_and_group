@@ -1,2 +1,2 @@
 #!/bin/bash
-supo chown vincent:staff*
+chown vincent:staff*
