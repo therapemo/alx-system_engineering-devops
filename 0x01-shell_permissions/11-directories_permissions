@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmode -R +111
+sudo chmode -R +755
