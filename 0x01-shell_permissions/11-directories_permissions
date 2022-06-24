@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chmode -R +755
+#!/bin/bas
+chmode -R ugo+X
